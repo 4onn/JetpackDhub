@@ -29,5 +29,3 @@ This revision was statically reviewed and packaged; it has **not been compiled o
 
 Hourglass sand animation references and jetpack exhaust particles are currently unassigned in the scene. These optional effects are guarded in code; no replacement artwork or effects were invented.
 
-## Publishing
-Use a separate repository named jetpack-dhub. Commit the extracted project contents, not the ZIP. Keep Windows build files outside the source repository. Screenshots or a short gameplay clip would help showcase the game after testing. Verify the redistribution permissions and credits for artwork, music and fonts before making those assets public. No blanket license has been added to third-party assets.
